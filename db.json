@@ -1,0 +1,355 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Cloro",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Sabão em Pó",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Feijão",
+      "categoria": 2
+    },
+    {
+      "id": 4,
+      "produto": "Sabonete Dove",
+      "categoria": 3
+    },
+    {
+      "id": 5,
+      "produto": "Desodorante",
+      "categoria": 3
+    },
+    {
+      "id": 6,
+      "produto": "Arroz",
+      "categoria": 2
+    },
+    {
+      "id": 7,
+      "produto": "Desinfetante",
+      "categoria": 1
+    },
+    {
+      "id": 8,
+      "produto": "Macarrão",
+      "categoria": 2
+    },
+    {
+      "produto": "Sabão de Côco",
+      "categoria": "1",
+      "id": 9
+    },
+    {
+      "produto": "Pão de forma",
+      "categoria": "6",
+      "id": 10
+    },
+    {
+      "produto": "Pão francês",
+      "categoria": "6",
+      "id": 11
+    },
+    {
+      "produto": "Carne em conserva",
+      "categoria": "7",
+      "id": 12
+    },
+    {
+      "produto": "Ervilha",
+      "categoria": "7",
+      "id": 13
+    },
+    {
+      "produto": "Amaciante fofo",
+      "categoria": "1",
+      "id": 14
+    },
+    {
+      "produto": "Tira manchas",
+      "categoria": "1",
+      "id": 15
+    },
+    {
+      "produto": "Sabão líquido",
+      "categoria": "1",
+      "id": 16
+    },
+    {
+      "produto": "Maçã",
+      "categoria": "4",
+      "id": 17
+    },
+    {
+      "produto": "Uva",
+      "categoria": "4",
+      "id": 18
+    },
+    {
+      "produto": "Ameixa",
+      "categoria": "4",
+      "id": 19
+    },
+    {
+      "produto": "Banana",
+      "categoria": "4",
+      "id": 20
+    },
+    {
+      "produto": "Caju",
+      "categoria": "4",
+      "id": 21
+    },
+    {
+      "produto": "Caja",
+      "categoria": "4",
+      "id": 22
+    },
+    {
+      "produto": "Abacaxi",
+      "categoria": "4",
+      "id": 23
+    },
+    {
+      "produto": "Café",
+      "categoria": "2",
+      "id": 24
+    },
+    {
+      "produto": "Limão",
+      "categoria": "4",
+      "id": 26
+    },
+    {
+      "produto": "Seriguela",
+      "categoria": "4",
+      "id": 30
+    },
+    {
+      "produto": "Jaca",
+      "categoria": "4",
+      "id": 31
+    },
+    {
+      "produto": "Pimentão",
+      "categoria": "5",
+      "id": 32
+    },
+    {
+      "produto": "Cebola",
+      "categoria": "5",
+      "id": 33
+    },
+    {
+      "produto": "Batata inglesa",
+      "categoria": "5",
+      "id": 34
+    },
+    {
+      "produto": "Coentro",
+      "categoria": "5",
+      "id": 35
+    },
+    {
+      "produto": "Sal",
+      "categoria": "2",
+      "id": 36
+    },
+    {
+      "produto": "Detergente",
+      "categoria": "1",
+      "id": 37
+    },
+    {
+      "produto": "Pano de chão",
+      "categoria": "1",
+      "id": 38
+    },
+    {
+      "produto": "Limpa vidro",
+      "categoria": "1",
+      "id": 39
+    },
+    {
+      "produto": "Abobora",
+      "categoria": "5",
+      "id": 40
+    },
+    {
+      "produto": "Tomate",
+      "categoria": "5",
+      "id": 41
+    },
+    {
+      "produto": "Sabão OMO",
+      "categoria": "1",
+      "id": 42
+    },
+    {
+      "produto": "Milho em conserva",
+      "categoria": "7",
+      "id": 43
+    },
+    {
+      "produto": "Extrato de tomate",
+      "categoria": "8",
+      "id": 44
+    },
+    {
+      "produto": "Alho",
+      "categoria": "8",
+      "id": 45
+    },
+    {
+      "produto": "Açafrão",
+      "categoria": "8",
+      "id": 46
+    },
+    {
+      "produto": "Bolo de ovos",
+      "categoria": "6",
+      "id": 47
+    },
+    {
+      "produto": "Pão de forma integral",
+      "categoria": "6",
+      "id": 48
+    },
+    {
+      "produto": "Shampoo",
+      "categoria": "3",
+      "id": 49
+    },
+    {
+      "produto": "Condicionador",
+      "categoria": "3",
+      "id": 50
+    },
+    {
+      "produto": "Pimenta do reino",
+      "categoria": "8",
+      "id": 51
+    },
+    {
+      "produto": "Pneu",
+      "categoria": "9",
+      "id": 52
+    },
+    {
+      "produto": "Chave de roda",
+      "categoria": "9",
+      "id": 53
+    },
+    {
+      "produto": "Bucha para polimento",
+      "categoria": "9",
+      "id": 54
+    },
+    {
+      "produto": "Aromatizador",
+      "categoria": "9",
+      "id": 55
+    },
+    {
+      "produto": "Shampoo automotivo",
+      "categoria": "9",
+      "id": 56
+    },
+    {
+      "produto": "Geladeira",
+      "categoria": "10",
+      "id": 57
+    },
+    {
+      "produto": "Fogão",
+      "categoria": "10",
+      "id": 58
+    },
+    {
+      "produto": "Microondas",
+      "categoria": "10",
+      "id": 59
+    },
+    {
+      "produto": "Liquidificador",
+      "categoria": "10",
+      "id": 60
+    },
+    {
+      "produto": "Espremedor de laranja",
+      "categoria": "10",
+      "id": 61
+    },
+    {
+      "produto": "Multiprocessador",
+      "categoria": "10",
+      "id": 62
+    },
+    {
+      "id": 63,
+      "produto": "Cerveja Brahma",
+      "categoria": "11"
+    },
+    {
+      "produto": "Vinho",
+      "categoria": "11",
+      "id": 64
+    },
+    {
+      "produto": "Aguardente",
+      "categoria": "11",
+      "id": 65
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Mercearia"
+    },
+    {
+      "id": 3,
+      "categoria": "Perfumaria"
+    },
+    {
+      "categoria": "Frutas",
+      "id": 4
+    },
+    {
+      "categoria": "Verduras",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "categoria": "Padaria"
+    },
+    {
+      "categoria": "Laticínios",
+      "id": 7
+    },
+    {
+      "categoria": "Temperos",
+      "id": 8
+    },
+    {
+      "categoria": "Automotivo",
+      "id": 9
+    },
+    {
+      "categoria": "Eletrodomestico",
+      "id": 10
+    },
+    {
+      "categoria": "Bebidas",
+      "id": 11
+    }
+  ]
+}
